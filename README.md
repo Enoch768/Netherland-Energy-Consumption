@@ -10,4 +10,4 @@ Rendo
 Coteq 
 The dataset was gotten from kaggla and you can find it [here](https://www.kaggle.com/datasets/lucabasa/dutch-energy)
 The data is of two types **Gas** and **Energy** as they are the main uses of energy in the society.
-As each company has areas under their administation, there's a csv file for each company for each year and every thing is inside a folder. So all these datas are concatenated together and the final data is present on this repositorry.
+As each company has areas under their administation, there's a csv file for each company for each year and every thing is inside a folder. So all these datas are concatenated together and i performed EDA on the concatenated dataframe.
